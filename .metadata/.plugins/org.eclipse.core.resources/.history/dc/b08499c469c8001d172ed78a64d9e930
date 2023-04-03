@@ -1,0 +1,20 @@
+package first.java;
+
+class test
+{
+	public void show()
+	{
+			System.out.println("Hi from method");
+		
+	}
+}
+
+public class TestIObject {
+	
+		public static void main(String[]args) {
+				Test xyz=new Test(); //allocate memory
+				xyz.show();
+			System.out.println("Hi from main");
+		}
+
+}

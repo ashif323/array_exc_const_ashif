@@ -1,0 +1,9 @@
+package first.java;
+
+public class TestIObject {
+		public static void main(String[]args) {
+			// classname objectname
+			System.out.println("Hi from main");
+		}
+
+}

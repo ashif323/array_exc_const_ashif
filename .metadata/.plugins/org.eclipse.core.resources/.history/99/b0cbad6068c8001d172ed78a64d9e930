@@ -1,0 +1,11 @@
+package first.java;
+
+public class TestIObject {
+		public static void main(String[]args) {
+			// classname objectname=new classname();
+			Test xyz=new Test(); //allocate memory
+			xyz.show();
+			System.out.println("Hi from main");
+		}
+
+}
